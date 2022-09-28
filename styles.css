@@ -27,7 +27,7 @@ body{
     width: 100%;
     max-width: 320px;
     height: 80vh;
-    background: url(/weatherApp/images/weather-icon-gif-22.gif);
+    background: url(/images/weather-icon-gif-22.gif);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
